@@ -21,3 +21,5 @@ Cargo.lock
 /pkg/
 
 /bin/
+
+node_modules/
