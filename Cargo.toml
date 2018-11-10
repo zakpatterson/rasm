@@ -1,0 +1,6 @@
+[package]
+name = "rasm"
+version = "0.1.0"
+authors = ["Zak Patterson <pattersonzak@gmail.com>"]
+
+[dependencies]
