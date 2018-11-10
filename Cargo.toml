@@ -2,5 +2,12 @@
 name = "rasm"
 version = "0.1.0"
 authors = ["Zak Patterson <pattersonzak@gmail.com>"]
+description = "A sample project with wasm-pack"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/zakpatterson/rasm"
+
+[lib]
+crate-type = ["cdylib"]
 
 [dependencies]
+wasm-bindgen = "0.2"
